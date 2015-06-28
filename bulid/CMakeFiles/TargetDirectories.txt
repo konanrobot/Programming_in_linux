@@ -1,0 +1,2 @@
+/home/exbot/Documents/Programming_in_linux6_27/bulid/lib/CMakeFiles/Point.dir
+/home/exbot/Documents/Programming_in_linux6_27/bulid/bin/CMakeFiles/robot.dir

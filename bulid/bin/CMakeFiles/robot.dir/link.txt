@@ -1,0 +1,1 @@
+g++   -Wall -std=c++11 -g    CMakeFiles/robot.dir/robot.cpp.o  -o ../../bin/robot -rdynamic -L/home/exbot/Documents/Programming_in_linux6_27/lib ../../lib/libPoint.so -lboost_system -lboost_thread -lboost_timer -Wl,-rpath,/home/exbot/Documents/Programming_in_linux6_27/lib 

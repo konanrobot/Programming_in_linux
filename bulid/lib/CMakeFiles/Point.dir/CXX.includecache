@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/PointA.h
+Point_base.h
+../include/Point_base.h
+
+../include/Point_base.h
+string
+-
+iostream
+-
+
+/home/exbot/Documents/Programming_in_linux6_27/lib/PointA.cpp
+PointA.h
+/home/exbot/Documents/Programming_in_linux6_27/lib/PointA.h
+iostream
+-
+
+/home/exbot/Documents/Programming_in_linux6_27/lib/Point_base.cpp
+Point_base.h
+/home/exbot/Documents/Programming_in_linux6_27/lib/Point_base.h
+iostream
+-
+string
+-
+

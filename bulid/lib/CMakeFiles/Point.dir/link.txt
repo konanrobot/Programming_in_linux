@@ -1,0 +1,1 @@
+g++  -fPIC -Wall -std=c++11 -g   -shared -Wl,-soname,libPoint.so -o ../../lib/libPoint.so CMakeFiles/Point.dir/Point_base.cpp.o CMakeFiles/Point.dir/PointA.cpp.o -L/home/exbot/Documents/Programming_in_linux6_27/lib 
